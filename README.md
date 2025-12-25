@@ -1,6 +1,6 @@
 # MNIST Digit Classification with Convolutional NN
 
-This repository contains a complete implementation of a Convolutional Neural Network (CNN) designed to classify handwritten digits from the MNIST dataset. The project implements model selection through stratified cross-validation and hyperparameter tuning.
+This repository contains a complete implementation of a Convolutional Neural Network (CNN) designed to classify handwritten digits from the MNIST dataset. The project applies model selection through stratified cross-validation and hyperparameter tuning.
 
 ## Project Overview
 
